@@ -30,7 +30,7 @@ linkedin_username: patrick-lohr
 github_username:  pjlohr
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5254df9e-be10-480a-9325-e86ec1312487" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
