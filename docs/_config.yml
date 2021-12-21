@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github_username:  pjlohr
 
 # Build settings
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
