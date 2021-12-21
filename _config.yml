@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github_username:  pjlohr
 
 # Build settings
-#theme: jekyll-theme-slate
+
 plugins:
   - jekyll-feed
 
@@ -54,5 +54,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-minimal

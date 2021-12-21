@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5254df9e-be10-480a-9325-e86ec1312487" name="Default Changelist" comment="" />
+    <list default="true" id="5254df9e-be10-480a-9325-e86ec1312487" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/53/429a666bc481e9dfacdf0c9a0bc0327c9299e0aa3c75ad8259f944bbfd9cca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/64/350ecb3dc065725d7554ecd84dcfa7a51544848a7f011df7442269821fa7dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/jekyll/update/2021/12/20/welcome-to-jekyll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +34,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
